@@ -44,7 +44,7 @@
       "shortDescription": "8 Jun 2024 – Program “Pocket Pixel Mastery” telah diadakan bermula 09:00 pagi hingga 01:00 tengah hari bertempat di Bilik Seminar 4, Bangunan [...]",
       "dateDay": "08",
       "dateMonth": "JUN",
-      "image": "Assets/BULETIN_UNIVERSITI/PocketPixelMastery.png"
+      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/PocketPixelMastery.png"
     },
     {
       "id": 2,
@@ -52,7 +52,7 @@
       "shortDescription": "8 Jun 2024 – Program “Pocket Pixel Mastery” telah diadakan bermula 09:00 pagi hingga 01:00 tengah hari bertempat di Bilik Seminar 4, Bangunan [...]",
       "dateDay": "02",
       "dateMonth": "MEI",
-      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/a39ba0847cbe06a11798dadc36f52d82e0441a2f/Assets/BULETIN_UNIVERSITI/PocketPixelMastery.png"
+      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/GeospatialAnalysesGIS.jpeg"
     },
     {
       "id": 3,
@@ -60,7 +60,7 @@
       "shortDescription": "PAHANG, 12 Jun 2024 – Fakulti Perladangan dan Agroteknologi, Universiti Teknologi MARA (UiTM) Cawangan Pahang Kampus Jengka, berjaya menganjurkan seminar [...]",
       "dateDay": "12",
       "dateMonth": "JUN",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/PeningkatanProduktivitiNenas.jpg"
     }
   ],
   "activity": [
@@ -78,7 +78,7 @@
     }
   ],
   "featuredInfo": {
-    "title": "Logo 25 Tahun UiTM 2",
+    "title": "Logo 25 Tahun UiTM",
     "subTitle": "Jubli Perak UiTM 2024",
     "description": "Mesyuarat Majlis Eksekutif Universiti (MEU) Bil.3/2024 pada 31 Januari 2024 telah bersetuju memilih dan meluluskan logo 25 Tahun UiTM melalui pertandingan mencipta logo 25 Tahun UiTM bermula 23 November hingga 20 Disember 2023.",
     "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/UiTM25.png"
