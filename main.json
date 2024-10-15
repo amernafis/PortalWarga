@@ -1,0 +1,86 @@
+{
+  "newsCarousel": [
+    {
+      "id": 1,
+      "image": "http://via.placeholder.com/1280x720",
+      "title": "Celebrating 25 years of UiTM as a university",
+      "shortDescription": "Dari tahun 1956 sehingga kini, melalui transformasi dari RIDA (Rural & Industrial Development Authority) ke ITM Institut Teknologi MARA dan akhirnya menjadi UiTM (Universiti Teknologi MARA), institusi ini telah menunjukkan komitmen berterusan dalam menyediakan pendidikan tinggi yang berkualiti dan berperanan penting dalam pembangunan sosial dan ekonomi negara.",
+      "fullDescription": "Dari tahun 1956 sehingga kini, melalui transformasi dari RIDA (Rural & Industrial Development Authority) ke ITM Institut Teknologi MARA dan akhirnya menjadi UiTM (Universiti Teknologi MARA), institusi ini telah menunjukkan komitmen berterusan dalam menyediakan pendidikan tinggi yang berkualiti dan berperanan penting dalam pembangunan sosial dan ekonomi negara.Pada tarikh 26 Ogos 1999, Perdana Menteri Malaysia pada waktu itu, Dato’ Seri Dr. Mahathir Mohamad telah mengumumkan pertukaran nama ITM kepada Universiti Teknologi MARA (UiTM). Aspirasi UiTM adalah untuk menjadi sebuah pusat pengajian tinggi bertaraf dunia serta menjadi universiti terbaik. Pada 26 Ogos 2024 nanti, genap 25 tahun transformasi nama kepada sebuah institusi dari Institut Teknologi MARA kepada Universiti Teknologi MARA.",
+      "address": "Shah Alam, Selangor",
+      "date": "Monday, March 2024",
+      "backgroundColor": "#451268",
+      "primaryTextColor": "#FFFFFF",
+      "secondaryTextColor": "#BFB5FF"
+    },
+    {
+      "id": 2,
+      "image": "http://via.placeholder.com/1280x720",
+      "title": "TEST",
+      "shortDescription": "Dari tahun 1956 sehingga kini, melalui transformasi dari RIDA (Rural & Industrial Development Authority) ke ITM Institut Teknologi MARA dan akhirnya menjadi UiTM (Universiti Teknologi MARA), institusi ini telah menunjukkan komitmen berterusan dalam menyediakan pendidikan tinggi yang berkualiti dan berperanan penting dalam pembangunan sosial dan ekonomi negara.",
+      "fullDescription": "Dari tahun 1956 sehingga kini, melalui transformasi dari RIDA (Rural & Industrial Development Authority) ke ITM Institut Teknologi MARA dan akhirnya menjadi UiTM (Universiti Teknologi MARA), institusi ini telah menunjukkan komitmen berterusan dalam menyediakan pendidikan tinggi yang berkualiti dan berperanan penting dalam pembangunan sosial dan ekonomi negara.Pada tarikh 26 Ogos 1999, Perdana Menteri Malaysia pada waktu itu, Dato’ Seri Dr. Mahathir Mohamad telah mengumumkan pertukaran nama ITM kepada Universiti Teknologi MARA (UiTM). Aspirasi UiTM adalah untuk menjadi sebuah pusat pengajian tinggi bertaraf dunia serta menjadi universiti terbaik. Pada 26 Ogos 2024 nanti, genap 25 tahun transformasi nama kepada sebuah institusi dari Institut Teknologi MARA kepada Universiti Teknologi MARA.",
+      "address": "Shah Alam, Selangor",
+      "date": "Monday, March 2024",
+      "backgroundColor": "#451268",
+      "primaryTextColor": "#FFFFFF",
+      "secondaryTextColor": "#BFB5FF"
+    },
+    {
+      "id": 3,
+      "image": "http://via.placeholder.com/1280x720",
+      "title": "TEST",
+      "shortDescription": "Dari tahun 1956 sehingga kini, melalui transformasi dari RIDA (Rural & Industrial Development Authority) ke ITM Institut Teknologi MARA dan akhirnya menjadi UiTM (Universiti Teknologi MARA), institusi ini telah menunjukkan komitmen berterusan dalam menyediakan pendidikan tinggi yang berkualiti dan berperanan penting dalam pembangunan sosial dan ekonomi negara.",
+      "fullDescription": "Dari tahun 1956 sehingga kini, melalui transformasi dari RIDA (Rural & Industrial Development Authority) ke ITM Institut Teknologi MARA dan akhirnya menjadi UiTM (Universiti Teknologi MARA), institusi ini telah menunjukkan komitmen berterusan dalam menyediakan pendidikan tinggi yang berkualiti dan berperanan penting dalam pembangunan sosial dan ekonomi negara.Pada tarikh 26 Ogos 1999, Perdana Menteri Malaysia pada waktu itu, Dato’ Seri Dr. Mahathir Mohamad telah mengumumkan pertukaran nama ITM kepada Universiti Teknologi MARA (UiTM). Aspirasi UiTM adalah untuk menjadi sebuah pusat pengajian tinggi bertaraf dunia serta menjadi universiti terbaik. Pada 26 Ogos 2024 nanti, genap 25 tahun transformasi nama kepada sebuah institusi dari Institut Teknologi MARA kepada Universiti Teknologi MARA.",
+      "address": "Shah Alam, Selangor",
+      "date": "Monday, March 2024",
+      "backgroundColor": "#451268",
+      "primaryTextColor": "#FFFFFF",
+      "secondaryTextColor": "#BFB5FF"
+    }
+  ],
+  "newsBulletin": [
+    {
+      "id": 1,
+      "title": "Pocket Pixel Mastery Anjuran JPK UCS Kampus Sg Buloh, Selayang dan Teluk Intan",
+      "shortDescription": "8 Jun 2024 – Program “Pocket Pixel Mastery” telah diadakan bermula 09:00 pagi hingga 01:00 tengah hari bertempat di Bilik Seminar 4, Bangunan [...]",
+      "dateDay": "08",
+      "dateMonth": "JUN",
+      "image": "https://i.ibb.co/RQwhMnV/Pocket-Pixel-Mastery.png"
+    },
+    {
+      "id": 2,
+      "title": "How to Perform Geospatial Analyses in GIS",
+      "shortDescription": "8 Jun 2024 – Program “Pocket Pixel Mastery” telah diadakan bermula 09:00 pagi hingga 01:00 tengah hari bertempat di Bilik Seminar 4, Bangunan [...]",
+      "dateDay": "02",
+      "dateMonth": "MEI",
+      "image": "https://i.ibb.co/KhNQ945/Geospatial-Analyses-GIS.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Seminar Produktiviti Tanaman Nanas",
+      "shortDescription": "PAHANG, 12 Jun 2024 – Fakulti Perladangan dan Agroteknologi, Universiti Teknologi MARA (UiTM) Cawangan Pahang Kampus Jengka, berjaya menganjurkan seminar [...]",
+      "dateDay": "12",
+      "dateMonth": "JUN",
+      "image": "https://i.ibb.co/bbwDFS6/GAMBAR-1-0-hb-Rk7a-Xiy-Uz3.jpg"
+    }
+  ],
+  "activity": [
+    {
+      "title": "Community Meeting",
+      "date": "2024-10-15",
+      "image": "https://example.com/activity1.jpg",
+      "description": "Join us for a discussion on community projects."
+    },
+    {
+      "title": "Charity Run",
+      "date": "2024-10-20",
+      "image": "https://example.com/activity2.jpg",
+      "description": "Support a good cause while staying fit."
+    }
+  ],
+  "featuredInfo": {
+    "title": "LOGO 25 TAHUN UiTM",
+    "subTitle": "Jubli Perak UiTM 2024",
+    "description": "Mesyuarat Majlis Eksekutif Universiti (MEU) Bil.3/2024 pada 31 Januari 2024 telah bersetuju memilih dan meluluskan logo 25 Tahun UiTM melalui pertandingan mencipta logo 25 Tahun UiTM bermula 23 November hingga 20 Disember 2023.",
+    "image": "https://i.ibb.co/Y0B8QW4/UiTM25.png"
+  }
+}
