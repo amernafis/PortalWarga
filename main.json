@@ -67,6 +67,36 @@
         "month": "JUN",
         "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/PeningkatanProduktivitiNenas.jpg"
       }
+    },
+    {
+      "id": 4,
+      "title": "Projek Seeds Of Hope: Inisiatif BEVA bagi Menghidupkan Semula Ekosistem dan Melawan Perubahan Iklim",
+      "card": {
+        "description": "LINGGI, 18 Mei 2024 – Program Seeds Of Hope: Restoring Our Coastal Heritage anjuran pelajar semester 5, program Ijazah Sarjana Muda Pentadbiran Alam [...]",
+        "day": "18",
+        "month": "MEI",
+        "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/ProjekSeedsofHope2024.jpeg"
+      }
+    },
+    {
+      "id": 5,
+      "title": "School of Electrical Enginering to SEMICON Southeast Asia 2024",
+      "card": {
+        "description": "Kuala Lumpur, 30 May 2024 – The School of Electrical Engineering, College of Engineering, UiTM was invited by MDEC to join the SEMICON [...]",
+        "day": "30",
+        "month": "MEI",
+        "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/SEMICONSoutheastAsia2024.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Simposium Makanan Warisan Nusantara (SMWN) 2024 Anjuran FPHP Kampus Puncak Alam",
+      "card": {
+        "description": "PUNCAK ALAM, 8 JUN 2024 – Simposium Makanan Warisan Nusantara (SMWN) 2024 yang dianjurkan oleh Fakulti Pengurusan Hotel dan Pelancongan (FPHP) [...]",
+        "day": "08",
+        "month": "JUN",
+        "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/SimposiumMakananWarisanNusantara2024.jpg"
+      }
     }
   ],
   "activity": [
