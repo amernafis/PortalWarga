@@ -41,26 +41,32 @@
     {
       "id": 1,
       "title": "Pocket Pixel Mastery Anjuran JPK UCS Kampus Sg Buloh, Selayang dan Teluk Intan",
-      "shortDescription": "8 Jun 2024 – Program “Pocket Pixel Mastery” telah diadakan bermula 09:00 pagi hingga 01:00 tengah hari bertempat di Bilik Seminar 4, Bangunan [...]",
-      "dateDay": "08",
-      "dateMonth": "JUN",
-      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/PocketPixelMastery.png"
+      "card": {
+        "description": "8 Jun 2024 – Program “Pocket Pixel Mastery” telah diadakan bermula 09:00 pagi hingga 01:00 tengah hari bertempat di Bilik Seminar 4, Bangunan [...]",
+        "day": "08",
+        "month": "JUN",
+        "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/PocketPixelMastery.png"
+      }
     },
     {
       "id": 2,
       "title": "How to Perform Geospatial Analyses in GIS",
-      "shortDescription": "8 Jun 2024 – Program “Pocket Pixel Mastery” telah diadakan bermula 09:00 pagi hingga 01:00 tengah hari bertempat di Bilik Seminar 4, Bangunan [...]",
-      "dateDay": "02",
-      "dateMonth": "MEI",
-      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/GeospatialAnalysesGIS.jpeg"
+      "card": {
+        "description": "8 Jun 2024 – Program “Pocket Pixel Mastery” telah diadakan bermula 09:00 pagi hingga 01:00 tengah hari bertempat di Bilik Seminar 4, Bangunan [...]",
+        "day": "02",
+        "month": "MEI",
+        "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/GeospatialAnalysesGIS.jpeg"
+      }
     },
     {
       "id": 3,
       "title": "Seminar Produktiviti Tanaman Nanas",
-      "shortDescription": "PAHANG, 12 Jun 2024 – Fakulti Perladangan dan Agroteknologi, Universiti Teknologi MARA (UiTM) Cawangan Pahang Kampus Jengka, berjaya menganjurkan seminar [...]",
-      "dateDay": "12",
-      "dateMonth": "JUN",
-      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/PeningkatanProduktivitiNenas.jpg"
+      "card": {
+        "description": "PAHANG, 12 Jun 2024 – Fakulti Perladangan dan Agroteknologi, Universiti Teknologi MARA (UiTM) Cawangan Pahang Kampus Jengka, berjaya menganjurkan seminar [...]",
+        "day": "12",
+        "month": "JUN",
+        "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/PeningkatanProduktivitiNenas.jpg"
+      }
     }
   ],
   "activity": [
