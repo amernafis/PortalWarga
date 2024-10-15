@@ -2,46 +2,19 @@
   "newsCarousel": [
     { 
       "id": 1,
+      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/SambutanUiTM25Tahun.jpg",
       "title": "Celebrating 25 years of UiTM as a university",
       "content": "Dari tahun 1956 sehingga kini, melalui transformasi dari RIDA (Rural & Industrial Development Authority) ke ITM Institut Teknologi MARA dan akhirnya menjadi UiTM (Universiti Teknologi MARA), institusi ini telah menunjukkan komitmen berterusan dalam menyediakan pendidikan tinggi yang berkualiti dan berperanan penting dalam pembangunan sosial dan ekonomi negara.Pada tarikh 26 Ogos 1999, Perdana Menteri Malaysia pada waktu itu, Dato’ Seri Dr. Mahathir Mohamad telah mengumumkan pertukaran nama ITM kepada Universiti Teknologi MARA (UiTM). Aspirasi UiTM adalah untuk menjadi sebuah pusat pengajian tinggi bertaraf dunia serta menjadi universiti terbaik. Pada 26 Ogos 2024 nanti, genap 25 tahun transformasi nama kepada sebuah institusi dari Institut Teknologi MARA kepada Universiti Teknologi MARA.",
       "address": "Shah Alam, Selangor",
       "date": "Monday, March 2024",
       "card": {
-        "image": "http://via.placeholder.com/1280x720",
+        "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/SambutanUiTM25Tahun.jpg",
         "description": "Dari tahun 1956 sehingga kini, melalui transformasi dari RIDA (Rural & Industrial Development Authority) ke ITM Institut Teknologi MARA dan akhirnya menjadi UiTM (Universiti Teknologi MARA), institusi ini telah menunjukkan komitmen berterusan dalam menyediakan pendidikan tinggi yang berkualiti dan berperanan penting dalam pembangunan sosial dan ekonomi negara.",
         "backgroundColor": "#451268",
         "primaryTextColor": "#FFFFFF",
         "secondaryTextColor": "#BFB5FF"
       }
     },
-    { 
-      "id": 2,
-      "title": "Celebrating 25 years of UiTM as a university",
-      "content": "Dari tahun 1956 sehingga kini, melalui transformasi dari RIDA (Rural & Industrial Development Authority) ke ITM Institut Teknologi MARA dan akhirnya menjadi UiTM (Universiti Teknologi MARA), institusi ini telah menunjukkan komitmen berterusan dalam menyediakan pendidikan tinggi yang berkualiti dan berperanan penting dalam pembangunan sosial dan ekonomi negara.Pada tarikh 26 Ogos 1999, Perdana Menteri Malaysia pada waktu itu, Dato’ Seri Dr. Mahathir Mohamad telah mengumumkan pertukaran nama ITM kepada Universiti Teknologi MARA (UiTM). Aspirasi UiTM adalah untuk menjadi sebuah pusat pengajian tinggi bertaraf dunia serta menjadi universiti terbaik. Pada 26 Ogos 2024 nanti, genap 25 tahun transformasi nama kepada sebuah institusi dari Institut Teknologi MARA kepada Universiti Teknologi MARA.",
-      "address": "Shah Alam, Selangor",
-      "date": "Monday, March 2024",
-      "card": {
-        "image": "http://via.placeholder.com/1280x720",
-        "description": "Dari tahun 1956 sehingga kini, melalui transformasi dari RIDA (Rural & Industrial Development Authority) ke ITM Institut Teknologi MARA dan akhirnya menjadi UiTM (Universiti Teknologi MARA), institusi ini telah menunjukkan komitmen berterusan dalam menyediakan pendidikan tinggi yang berkualiti dan berperanan penting dalam pembangunan sosial dan ekonomi negara.",
-        "backgroundColor": "#451268",
-        "primaryTextColor": "#FFFFFF",
-        "secondaryTextColor": "#BFB5FF"
-      }
-    },
-   { 
-      "id": 3,
-      "title": "Celebrating 25 years of UiTM as a university",
-      "content": "Dari tahun 1956 sehingga kini, melalui transformasi dari RIDA (Rural & Industrial Development Authority) ke ITM Institut Teknologi MARA dan akhirnya menjadi UiTM (Universiti Teknologi MARA), institusi ini telah menunjukkan komitmen berterusan dalam menyediakan pendidikan tinggi yang berkualiti dan berperanan penting dalam pembangunan sosial dan ekonomi negara.Pada tarikh 26 Ogos 1999, Perdana Menteri Malaysia pada waktu itu, Dato’ Seri Dr. Mahathir Mohamad telah mengumumkan pertukaran nama ITM kepada Universiti Teknologi MARA (UiTM). Aspirasi UiTM adalah untuk menjadi sebuah pusat pengajian tinggi bertaraf dunia serta menjadi universiti terbaik. Pada 26 Ogos 2024 nanti, genap 25 tahun transformasi nama kepada sebuah institusi dari Institut Teknologi MARA kepada Universiti Teknologi MARA.",
-      "address": "Shah Alam, Selangor",
-      "date": "Monday, March 2024",
-      "card": {
-        "image": "http://via.placeholder.com/1280x720",
-        "description": "Dari tahun 1956 sehingga kini, melalui transformasi dari RIDA (Rural & Industrial Development Authority) ke ITM Institut Teknologi MARA dan akhirnya menjadi UiTM (Universiti Teknologi MARA), institusi ini telah menunjukkan komitmen berterusan dalam menyediakan pendidikan tinggi yang berkualiti dan berperanan penting dalam pembangunan sosial dan ekonomi negara.",
-        "backgroundColor": "#451268",
-        "primaryTextColor": "#FFFFFF",
-        "secondaryTextColor": "#BFB5FF"
-      }
-    }
   ],
   "newsBulletin": [
     {
