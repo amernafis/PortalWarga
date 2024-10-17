@@ -119,17 +119,53 @@
   ],
   "activity": [
     {
-      "title": "Community Meeting",
-      "date": "2024-10-15",
-      "image": "https://example.com/activity1.jpg",
-      "description": "Join us for a discussion on community projects."
+      "id": 1,
+      "title": "Sukan Antara Fakulti (SAF) 2024",
+      "date": "7 - 26 Jun 2024",
+      "address": "Shah Alam, Selangor"
+      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/SambutanUiTM25Tahun_Banner.jpg",
+      "content": "Join us for a discussion on community projects."
     },
     {
-      "title": "Charity Run",
-      "date": "2024-10-20",
-      "image": "https://example.com/activity2.jpg",
-      "description": "Support a good cause while staying fit."
-    }
+      "id": 2,
+      "title": "Karnival Sukan Badan Berkanun Virtual Edition (SUKANUNVE) 2024",
+      "date": "22 - 25 Julai 2024",
+      "address": "Shah Alam, Selangor"
+      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/SambutanUiTM25Tahun_Banner.jpg",
+      "content": "Join us for a discussion on community projects."
+    },
+    {
+      "id": 3,
+      "title": "PERTANDINGAN MEMANCING TERBUKA BADAN BERKANUN 2024",
+      "date": "1 Jun 2024",
+      "address": "Shah Alam, Selangor"
+      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/SambutanUiTM25Tahun_Banner.jpg",
+      "content": "Join us for a discussion on community projects."
+    },
+    {
+      "id": 4,
+      "title": "Karnival Sukan Pantai Badan Berkanun (SUPANUN) 2024",
+      "date": "15 - 21 Oktober 2024",
+      "address": "Shah Alam, Selangor"
+      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/SambutanUiTM25Tahun_Banner.jpg",
+      "content": "Join us for a discussion on community projects."
+    },
+    {
+      "id": 5,
+      "title": "Karnival Sukan Badan Berkanun Virtual Edition (SUKANUNVE) 2024",
+      "date": "22 - 25 Julai 2024",
+      "address": "Shah Alam, Selangor"
+      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/SambutanUiTM25Tahun_Banner.jpg",
+      "content": "Join us for a discussion on community projects."
+    },
+    {
+      "id": 5,
+      "title": "Karnival Sukan Badan Berkanun Virtual Edition (SUKANUNVE) 2024",
+      "date": "22 - 25 Julai 2024",
+      "address": "Shah Alam, Selangor"
+      "image": "https://raw.githubusercontent.com/amernafis/PortalWarga/refs/heads/main/images/SambutanUiTM25Tahun_Banner.jpg",
+      "content": "Join us for a discussion on community projects."
+    },
   ],
   "featuredInfo": {
     "title": "Logo 25 Tahun UiTM",
